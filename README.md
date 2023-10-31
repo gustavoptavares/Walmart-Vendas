@@ -20,7 +20,7 @@ Vamos analisar os dados O conjunto de dados de vendas do Walmart, para entender 
 
 ## O Processo
 
-O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo de machine learning de regressão, utilizando o algoritmo de regressão linear para previsão das vendas.
+O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão das vendas.
 
 ## Resultados
 
